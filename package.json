@@ -30,7 +30,7 @@
   ],
   "main": "./lib/passport-google-id-token",
   "dependencies": {
-    "google-id-token": "git://github.com/abiskop/google-id-token#4bd83ada8ba26dace0a1367b2aa435d935a247cc",
+    "google-id-token": "https://github.com/abiskop/google-id-token#4bd83ada8ba26dace0a1367b2aa435d935a247cc",
     "passport": "0.1.x",
     "pkginfo": "0.2.x",
     "request": "2.47.x"
